@@ -1,0 +1,14 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+#button1 {
+    margin: 0 auto;
+    display: block;
+    }
+
+#button2 {
+    text-align: center
+    }
+
