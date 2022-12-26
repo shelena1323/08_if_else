@@ -93,6 +93,7 @@ if (nums.length == 3){
             a = s;
         } else if (j==1 && i>0){
             d = two[i];
+            s = four[k];
             a = s+d;
         } 
     }
